@@ -2,5 +2,6 @@
     "lastsemic": true,
     "asi": true,
     "esversion": 6,
-    "strict": "global"
+    "node": true,
+    "strict": true
 }

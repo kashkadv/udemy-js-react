@@ -1,2 +1,3 @@
-"use strict"
+alert('asd');
 
+console.log(123);

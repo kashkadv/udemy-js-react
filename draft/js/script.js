@@ -1,2 +1,3 @@
-"use strict"
+"use strict";
 
+console.log(123);
